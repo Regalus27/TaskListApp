@@ -1,0 +1,20 @@
+Basic features for 1st run:
+ - Add to a list of tasks
+ - Mark tasks as completed
+ - Estimated and Actual effort values for tasks
+ - 'Reward' system for tasks
+Effort Values:
+ - Estimated Value is assigned by user when creating a task
+ - Actual Value is assigned by user after finishing a task
+ - The greater of these two values would be used to determine the 'Reward'
+Reward:
+ - Probably just useless points for now. Worked for Reddit.
+Good sorting metadata:
+ - Date Created
+ - Date Completed
+ - Estimated Difficulty
+ - Completed Difficulty
+
+
+ FUTURE STUFF:
+  - Remember tasks, autofill names, show previous average effort values.
